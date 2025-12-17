@@ -27,4 +27,6 @@ A desktop-based pharmacy billing and inventory management system built using Pyt
 
 ## 📸 Screenshots
 
-
+![Dashboard](images/dashboard.png)
+![Billing Screen](images/billing_screen.png)
+![Receipt](images/receipt.png)
